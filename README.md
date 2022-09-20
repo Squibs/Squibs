@@ -4,7 +4,10 @@
   <img src="./images/github-banner.png" width="100%" alt="Banner">
 </div>
 
-<img align="right" width="275" src="./images/my-snowflake-eel.gif" alt="Gif of Zachary's Snowflake Eel" />
+<!-- One of my snowflake eels -->
+<p><img align="right" width="275" src="./images/my-snowflake-eel.gif" alt="Gif of Zachary's Snowflake Eel" /></p>
+<!-- Space between image and text -->
+<img height="305" width="5" align="right" src="./images/blank.svg" alt=""/>
 
 <br/>
 I will always be taking steps into learning more about web development, and learning more about myself along the way. I was born in California, but have lived almost all of my entire life in Colorado.
@@ -40,6 +43,6 @@ As time has passed, my programming interests have shifted, and web development i
 <img align="right" src="https://komarev.com/ghpvc/?username=Squibs&color=4cb4f0&style=flat-square&label=Visitors" alt="Zachary's Profile Visitor Counter"/>
 
 <!-- Footer / To keep below centered text center -->
-<img width="20px" align="right" src="./images/blank.svg"/>
+<img width="20px" align="right" src="./images/blank.svg" alt=""/>
 
 <p align="center"><samp>Check out my other repos 👇🏻</samp></p>
