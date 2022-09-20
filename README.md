@@ -17,23 +17,16 @@
 </p>
 
 <!-- https://github.com/DenverCoder1/custom-icon-badges -->
-<p align="center"><a href="https://github.com/squibs?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-4cb4f0?style=for-the-badge&logoColor=fafafa&logo=repo" alt="All Repositories" title="All Repositories" /></a></p>
+<p align="center"><a href="https://github.com/Squibs?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-4cb4f0?style=for-the-badge&logoColor=fafafa&logo=repo" alt="All Repositories" title="All Repositories" /></a></p>
 
 <!-- Socials -->
 <!-- Icons from https://simpleicons.org/ -->
 <p align="left">Find me on other platforms:</p>
-<a href="https://www.freecodecamp.org/squibs">
-  <img width="20px" align="left" src="./images/freecodecamp.svg" alt="Zachary's freeCodeCamp Profile"/>
-</a>
-<a href="https://codepen.io/Sulph">
-  <img width="20px" align="left" src="./images/codepen.svg" alt="Zachary's CodePen Profile"/>
-</a>
-<a href="https://www.youtube.com/squibsvids">
-  <img width="20px" align="left" src="./images/youtube.svg" alt="Zachary's YouTube Channel"/>
-</a>
-<a href="https://twitter.com/SquibsVids">
-  <img width="20px" align="left" src="./images/twitter.svg" alt="Zachary's Twitter Profile"/>
-</a>
+<a href="https://www.freecodecamp.org/squibs"><img width="20px" align="left" src="./images/freecodecamp.svg" alt="Zachary's freeCodeCamp Profile"/></a>
+<a href="https://codepen.io/Sulph"><img width="20px" align="left" src="./images/codepen.svg" alt="Zachary's CodePen Profile"/></a>
+<a href="https://www.youtube.com/squibsvids"><img width="20px" align="left" src="./images/youtube.svg" alt="Zachary's YouTube Channel"/></a>
+<a href="https://twitter.com/SquibsVids"><img width="20px" align="left" src="./images/twitter.svg" alt="Zachary's Twitter Profile"/></a>
+<a href="https://steamcommunity.com/id/Squibs_/"><img width="20px" align="left" src="./images/steam.svg" alt="Zachary's Steam Profile"/></a>
 
 <!-- Footer / To keep below centered text center -->
 <img width="20px" align="right" src="./images/blank.svg"/>
