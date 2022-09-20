@@ -9,6 +9,7 @@
 <!-- Space between image and text -->
 <img height="275" width="5" align="right" src="./images/blank.svg" alt=""/>
 
+<br/>
 I will always be taking steps into learning more about web development, and learning more about myself along the way. I was born in California, but have lived almost all of my entire life in Colorado.
 <br/><br/>
 The way I see it, any type of programming can be treated as a puzzle, which is why I am drawn to it as an interest; it allows for unique, creative, and many different types of solutions. Video games started off my interest in programming; always wanting to create my own one day and wanting to know exactly how they were made.
