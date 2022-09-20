@@ -44,5 +44,7 @@ As time has passed, my programming interests have shifted, and web development i
 
 <!-- Footer / To keep below centered text center -->
 <img width="20px" align="right" src="./images/blank.svg" alt=""/>
+<img width="20px" align="right" src="./images/blank.svg" alt=""/>
+<img width="20px" align="right" src="./images/blank.svg" alt=""/>
 
 <p align="center"><samp>Check out my other repos 👇🏻</samp></p>
