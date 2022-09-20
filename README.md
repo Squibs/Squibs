@@ -1,7 +1,7 @@
 <!-- Banner -->
 <!-- Banner font by David Libeau - Hacked -->
 <div align="center">
-  <img src="./images/github banner.png" width="100%" alt="Banner">
+  <img src="./images/github-banner.png" width="100%" alt="Banner">
 </div>
 
 ## 🗂️ Highlighted Projects 
