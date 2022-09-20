@@ -7,7 +7,7 @@
 <!-- One of my snowflake eels -->
 <p><img align="right" width="275" src="./images/my-snowflake-eel.gif" alt="Gif of Zachary's Snowflake Eel" /></p>
 <!-- Space between image and text -->
-<img height="305" width="5" align="right" src="./images/blank.svg" alt=""/>
+<img height="275" width="5" align="right" src="./images/blank.svg" alt=""/>
 
 <br/>
 I will always be taking steps into learning more about web development, and learning more about myself along the way. I was born in California, but have lived almost all of my entire life in Colorado.
