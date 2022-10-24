@@ -26,7 +26,7 @@ As time has passed, my programming interests have shifted, and web development i
 <a href="https://github.com/Squibs/squibs-scripts#squibs-scripts"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Squibs&repo=squibs-scripts&show_icons=false&bg_color=4cb4f0&title_color=fafafa&text_color=2f343c&border_color=202225" alt="Zachary's Squibs' Scripts Repository"/></a>
 <a href="https://github.com/Squibs/data-visualization#data-visualization"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Squibs&repo=data-visualization&show_icons=false&bg_color=4cb4f0&title_color=fafafa&text_color=2f343c&border_color=202225" alt="Zachary's Data Visualization Repository"/></a>
 <a href="https://github.com/Squibs/drum-machine#drum-machine"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Squibs&repo=drum-machine&show_icons=false&bg_color=4cb4f0&title_color=fafafa&text_color=2f343c&border_color=202225" alt="Zachary's Wikipedia Viewer Repository"/></a>
-<a href="https://github.com/Squibs/simon-game#simon-game"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Squibs&repo=simon-game&show_icons=false&bg_color=4cb4f0&title_color=fafafa&text_color=2f343c&border_color=202225" alt="Zachary's Simon Game Repository"/></a>
+<a href="https://github.com/Squibs/gatsby-boilerplate#gatsby-boilerplate"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Squibs&repo=gatsby-boilerplate&show_icons=false&bg_color=4cb4f0&title_color=fafafa&text_color=2f343c&border_color=202225" alt="Zachary's Simon Game Repository"/></a>
 </p>
 
 <!-- Socials -->
